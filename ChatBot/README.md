@@ -59,7 +59,6 @@ These steps will be discussed in detail in the next section i.e. Implementation 
 	- I tried to create **Web App Bot** by creating new app name and bot handle linked to same resource group.
 	- However, due to limitations of the free tier service, I could not auto create App ID and Password. Hence, I will update complete the step once free tier service is upgraded to generate auto creation of App ID and Password.
 
-
-
+[![Architecture](https://raw.githubusercontent.com/maheshhase/Microsoft-Azure-Projects/main/ChatBot/Images/Architecture.jpg "Architecture")](https://raw.githubusercontent.com/maheshhase/Microsoft-Azure-Projects/main/ChatBot/Images/Architecture.jpg "Architecture")
 
 
