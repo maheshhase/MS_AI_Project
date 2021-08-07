@@ -1,1 +1,1 @@
-## My QnA maker project
+## QnA maker project
