@@ -24,7 +24,7 @@ URL Link: [Renewable Energy Investment in Australia](https://www.rba.gov.au/publ
 
 - `Model Phase`: This involved 4 phases which are creating a resource group **RenewQnA**, followed by text analytics tool **RenewQnA** and QnA maker tool **RenewInvestment** using Microsoft Azure Portal. Final step involved creating a knowledge base using **qnamaker.ai** where database or resources were uploaded. This step will be discussed in detail in the next section i.e. Implementation of the Architecture.
 
-- `Production Phase`: In this phase, I tried to develop **Web App Bot** but I could not utilise this feature due to limitations of free Azure version which did not allow Auto Creation of App ID and password.
+- `Production Phase`: In this phase, I tried to develop **Web App Bot** but I could not utilise this feature due to limitations of free Azure version which did not allow Auto Creation of App ID and password. Having said this limitation, this project is certainly **Scalable** and **Extensible** with paid version of the Microsoft Azure Services.
 
 [![Solution](https://raw.githubusercontent.com/maheshhase/Microsoft-Azure-Projects/main/Solution.jpeg "Solution")](https://raw.githubusercontent.com/maheshhase/Microsoft-Azure-Projects/main/Solution.jpeg "Solution")
 
