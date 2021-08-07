@@ -20,7 +20,7 @@ I reasearched a lot of documentation related to Renewable Energy and found repor
 Further, artictecture design should be very simple so that gives prompt answer to user queries. I tried to manually review all chatbot answers related to article to avoid any wrong information.  My entire project went through following phases :
 
 - `Data Phase`: This involved searching information which can answer queries related to renewable energy investment and yet brief enough to be less than 1MB for free version. I choose URL approach over document, so that any updated information will be available to our user.
-URL Link: [Renewable Energy Investment in Australia](http://https://www.rba.gov.au/publications/bulletin/2020/mar/renewable-energy-investment-in-australia.html "Renewable Energy Investment in Australia")
+URL Link: [Renewable Energy Investment in Australia](https://www.rba.gov.au/publications/bulletin/2020/mar/renewable-energy-investment-in-australia.html "Renewable Energy Investment in Australia")
 
 - `Model Phase`: This involved 4 phases which are creating a resource group **RenewQnA**, followed by text analytics tool **RenewQnA** and QnA maker tool **RenewInvestment** using Microsoft Azure Portal. Final step involved creating a knowledge base using **qnamaker.ai** where database or resources were uploaded. This step will be discussed in detail in the next section i.e. Implementation of the Architecture.
 
