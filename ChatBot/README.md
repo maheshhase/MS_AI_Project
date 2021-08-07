@@ -30,6 +30,34 @@ These steps will be discussed in detail in the next section i.e. Implementation 
 
 [![Solution](https://raw.githubusercontent.com/maheshhase/Microsoft-Azure-Projects/main/Solution.jpeg "Solution")](https://raw.githubusercontent.com/maheshhase/Microsoft-Azure-Projects/main/Solution.jpeg "Solution")
 
+## Implementation of Architecture:
+
+1.  `Setting up Microsoft Azure Portal`
+	- As a newcomer, I started with basic steps of implementation which is creation of student account for Microsoft Azure Portal.
+	- After multiple iterations, I could setup a **Resource Group** for ChatBot Project. I was trying to intergrate **Text Analytics services**, but could not do so due to limitations of free tier account.
+	- FInally, I created **QnA Maker** using same resource group to make a ChatBot.
+	
+2. `Data Phase`
+	- I searched a lot of resources for Renewable Energy sources of Australia as well as **Reserve Bank of Australia** to get recent investment in the Renewable Energy.
+	- Due to limitations of free tier account, I could only upload resources upto 1MB. I realised this much later after researching a lot of useful articles for chatbot. Hence, this phase consumed a lot of time due to technical limitations of free tier account.
+	
+3. `Model Phase`
+	- This was the most interesting phase of the project. I used **qnamaker.ai** to create a knowledge base for chatbot. I uploaded resource from **Reserve Bank of Australia**  which talks about latest trends of the investment in the Renewable Energy sector of Australia.
+	- I tried to use **preview mode** to make ChatBot more interactive using text analytics services. However, this did not enable feature to try custom question answering while Populating the database.
+	- I used **Professional** persona to answer queries of students, researchers and industry people while creating knowledge base.
+	
+4. `Train Phase`
+	- I have to **manually edit responses** to queries as they capture certain irrelevant responses such as text version of images and tables, references, introduction etc.
+	- Further, I included **more questions for each response** depending on keywords in the response for better functionality.
+
+5. `Test and Population Phase`
+	- I tested the QnA maker for certain questions multiple times till I get satisfactory response. 
+	- Responses were designed to provide detailed response to user so that they get maximum information related to topic.
+	- Further, professional persona took care of general questions being asked by user.
+	
+6. `Production Phase`
+	- I tried to create **Web App Bot** by creating new app name and bot handle linked to same resource group.
+	- However, due to limitations of the free tier service, I could not auto create App ID and Password. Hence, I will update complete the step once free tier service is upgraded to generate auto creation of App ID and Password.
 
 
 
