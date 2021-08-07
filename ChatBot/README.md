@@ -14,13 +14,16 @@ It is evident that people will be curious and need ready resource which can answ
 ## Solution Design
 
 I reasearched a lot of documentation related to Renewable Energy and found reports which gives a lot of information about investment in the renewable energy in Australia. However my solution design suffered from following setbacks
+1. Size of the documents - I realised it later that we can upload only documents less than 1MB under free version
+2. Text Analytics services do not have custom question answering mode under preview mode for free version
 
-Size of the documents - I realised it later that we can upload only documents less than 1MB under free version
-Text Analytics services do not have custom question answering mode under preview mode for free version
-Further, artictecture design should be very simple so that gives prompt answer to user queries. I tried to manually review all chatbot answers related to article to avoid any wrong information. My entire project went through following phases :
+Further, artictecture design should be very simple so that gives prompt answer to user queries. I tried to manually review all chatbot answers related to article to avoid any wrong information.  My entire project went through following phases :
+- `Data Phase`: This involved searching information which can answer queries related to renewable energy investment and yet brief enough to be less than 1MB. I choose URL approach over document, so that any updated information will be available to our user.
+URL Link: [Renewable Energy Investment in Australia](http://https://www.rba.gov.au/publications/bulletin/2020/mar/renewable-energy-investment-in-australia.html "Renewable Energy Investment in Australia")
 
-Data Phase: This involved searching information which can answer queries related to renewable energy investment and yet brief enough to be less than 1MB. I choose URL approach over document, so that any updated information will be available to our user.
-URL Link: Renewable Energy Investment in Australia
+
+
+
 
 
 
