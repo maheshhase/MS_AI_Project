@@ -24,7 +24,7 @@ When I combined energy analysis with economy & emissions analysis, I found that,
 ## Hindsight Bias
 - Project would be much effective if I could include more resources about 1MB limit for free tier account
 - Also, manual efforts to design QnA would be reduced if I could use preview feature using text analytics to design custom question and answers.
-- Finally, I could not deploy final stage of production which is Web chat project due to limitations of free tier account.
+- Finally, I could not deploy final stage of production which is Web App Bot due to limitations of free tier account.
 
 
 ## These are snapshots of the main pages of the project
