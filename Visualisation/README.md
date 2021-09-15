@@ -79,12 +79,16 @@ Link: https://www.energy.gov.au/publications/australian-energy-update-2020
 <img width="564" alt="2" src="https://user-images.githubusercontent.com/64317646/133423291-7c82f69d-3589-4dfe-8452-79c136f88ffb.png">
 
 - To analyse clean energy production initiatives undertaken by the Australian states, I plotted energy generation using renewable and non-renewable fuels for different states over the last decade. 
-- For Tasmania (TAS), renewable energy generation is more than non-renewable energy generation with the biggest gap in renewable (12,995 GWh) and non-renewable (1005 GWh) energy generation in 2014. 
+- For Tasmania (TAS), renewable energy generation is more than non-renewable energy generation with the biggest gap in renewable (12,995 GWh) and non-renewable (1,005 GWh) energy generation in 2014. 
 - In all other states, non-renewable energy generation is higher than renewable energy generation. But it is worth noticing that gap between non-renewable energy generation and renewable energy generation is becoming narrower over the decade indicating sustainable growth with a focus on renewable energy generation.
 
-####
+#### 3. Australia's Preparadeness to fight climate change in terms of energy productivity
 
+<img width="377" alt="3" src="https://user-images.githubusercontent.com/64317646/133424686-a6a809bf-97f7-4dda-b4b7-4af66e2b37af.png">
 
+- Energy Productivity = GDP (AUD MN) / Energy Consumption (PJ)
+- Since fossil fuels dominate Australia’s Energy Consumption, less Energy Consumption for the same GDP indicates better preparedness of the state to tackle climate change.
+- Hence, we can inverse proportion between Energy Productivity and Energy Consumption in the 
 
 
 
