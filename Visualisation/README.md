@@ -66,7 +66,24 @@ Link: https://www.energy.gov.au/publications/australian-energy-update-2020
 ### IV. DATA EXPLORATION
 
 #### 1. Average Per Capita Economic Growth and Energy Consumption in each Australian State
+
 <img width="614" alt="1" src="https://user-images.githubusercontent.com/64317646/133422713-804b86df-6157-459a-ae96-626666c1dfdd.png">
+
+- we need to find whether different Australian states are contributing towards economic growth in each Australian state. 
+- Map of Australia on LHS shows average GDP ($/person) whereas map on RHS shows per capita energy consumption in each state and territory in Australia. 
+- Here, we have avoided using aggregate energy consumption figures as it may mislead the analysis by focusing of regions with higher population and hence relatively higher aggregate energy consumption. Per capita measures energy consumption on per individual basis hence removes the bias introduced due to population. 
+- NSW has the lowest per capita energy consumption (206 GJ/person) but has relatively better per capita GDP (501,798 AUD MN) compared to other Australian states.
+
+#### 2. Clean energy production initiatives over the past decade
+
+<img width="564" alt="2" src="https://user-images.githubusercontent.com/64317646/133423291-7c82f69d-3589-4dfe-8452-79c136f88ffb.png">
+
+- To analyse clean energy production initiatives undertaken by the Australian states, I plotted energy generation using renewable and non-renewable fuels for different states over the last decade. 
+- For Tasmania (TAS), renewable energy generation is more than non-renewable energy generation with the biggest gap in renewable (12,995 GWh) and non-renewable (1005 GWh) energy generation in 2014. 
+- In all other states, non-renewable energy generation is higher than renewable energy generation. But it is worth noticing that gap between non-renewable energy generation and renewable energy generation is becoming narrower over the decade indicating sustainable growth with a focus on renewable energy generation.
+
+####
+
 
 
 
