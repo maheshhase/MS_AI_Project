@@ -60,7 +60,7 @@ Link: https://www.energy.gov.au/publications/australian-energy-update-2020
 
 ### Tools and Libraries Used for Analysis
 1. 	R and Microsoft Excel - For Data Wrangling
-2.	Power BI – For Data exploration using graphs
+2.	Power BI – For Data exploration using visualisation
 
 
 
