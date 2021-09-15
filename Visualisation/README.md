@@ -1,7 +1,7 @@
 
 ## Analytics Project (using Power BI)
 
-### Introduction
+### I. Introduction
 
 In recent years, most of the developed economies need economy-wide actions to facilitate decarbonization and sustainable development as the world recovers from the COVID-19 global pandemic. Developed countries have been forced to rethink their development pathways following the goals of the Paris Agreement on climate change through long-term strategies.
 
@@ -10,7 +10,7 @@ For sustainable growth, emissions must reduce as a country make economic growth.
 [![Visualisation](https://blueandgreentomorrow.com/wp-content/uploads/2018/10/eco-investing.jpg "Visualisation")](https://blueandgreentomorrow.com/wp-content/uploads/2018/10/eco-investing.jpg "Visualisation")
 
 
-### Description of the Open Datasets
+### II. Description of the Open Datasets
 
 #### 1. Australian Energy Update 2020 - Table B 
 - Tabular data (xls file, 225KB): 
@@ -58,9 +58,17 @@ Key attributes in the Table O dataset:
 Link: https://www.energy.gov.au/publications/australian-energy-update-2020
 
 
-### Tools and Libraries Used for Analysis
+### III. Tools and Libraries Used for Analysis
 1. 	R and Microsoft Excel - For Data Wrangling
 2.	Power BI – For Data exploration using visualisation
+
+
+### IV. DATA EXPLORATION
+
+#### 1. Average Per Capita Economic Growth and Energy Consumption in each Australian State
+<img width="614" alt="1" src="https://user-images.githubusercontent.com/64317646/133422713-804b86df-6157-459a-ae96-626666c1dfdd.png">
+
+
 
 
 
