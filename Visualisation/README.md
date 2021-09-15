@@ -109,6 +109,7 @@ I selected NSW region in one of the maps, automatically values in all visualisat
 
 **[Power BI Dashboard Link](https://app.powerbi.com/groups/me/reports/dfbe221f-6433-481b-9fe8-3aa3931152ee?ctid=ef7a487a-77ca-410a-803d-e426b62a587f&pbi_source=linkShare "Power BI Dashboard Link")**
 
+(p.s. Not sure whether link is accessible since I am using a free version of Power BI.)
 
 
 
