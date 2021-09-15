@@ -91,20 +91,23 @@ Link: https://www.energy.gov.au/publications/australian-energy-update-2020
 - Hence, we can inverse proportion between Energy Productivity and Energy Consumption in the above figure
 
 
-#### 4. Final Dashboard
+### V. Final Dashboard
 
 Final dashboard with all visualisations and key findings.
 
 <img width="1171" alt="4" src="https://user-images.githubusercontent.com/64317646/133425493-f34799db-d88a-42a8-befd-f33106399bfa.png">
 
 
-#### 5. Interactivity
+#### 1. Interactivity
 
 I selected NSW region in one of the maps, automatically values in all visualisations changed to reflect only NSW region
 
 <img width="1171" alt="5" src="https://user-images.githubusercontent.com/64317646/133425664-317abe5b-72c4-45c1-b7f3-cbd4de08b677.png">
 
 
+#### 2. Dashboard Link
+
+**[Power BI Dashboard Link](https://app.powerbi.com/groups/me/reports/dfbe221f-6433-481b-9fe8-3aa3931152ee?ctid=ef7a487a-77ca-410a-803d-e426b62a587f&pbi_source=linkShare "Power BI Dashboard Link")**
 
 
 
