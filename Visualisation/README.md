@@ -16,6 +16,7 @@ For sustainable growth, emissions must reduce as a country make economic growth.
 - Tabular data (xls file, 225KB): 
 - Australian population, GDP and energy consumption, by state and territory. 
 - It has temporal attributes (both continuous and discrete) with duration ranging from financial year (FY) 1960-61 to FY 2018-19. This table has 9 worksheets with each having ~ 65 rows and 7 columns.	
+
 Key attributes in the Table B dataset:
 1.	Year
 2.	Each worksheet for different states
@@ -33,6 +34,7 @@ Link:https://www.energy.gov.au/publications/australian-energy-update-2020
 - Tabular data (xls file, 1.2MB):
 - Australian energy consumption, by state and territory, by industry and fuel type, energy units. 
 - It has temporal attributes (both continuous and discrete) with duration ranging from FY 1973-74 to FY 2018-19. This table has 10 worksheets with each having ~ 2,072 rows and 47 columns.
+
 Key attributes in the Table F dataset:
 1.	Year
 2.	Each worksheet for different states
@@ -46,6 +48,7 @@ Link: https://www.energy.gov.au/publications/australian-energy-update-2020
 - Tabular data (xls file, 126KB): 
 - Australian electricity generation, by state and territory, by fuel type, physical units.
 - It has temporal attributes (both continuous and discrete) with duration ranging from FY 2008-09 to FY 2018-19. This table has 14 worksheets with each having ~ 47 rows and 12 columns.
+
 Key attributes in the Table O dataset:
 1.	Year
 2.	Each worksheet for different states
