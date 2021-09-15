@@ -10,6 +10,57 @@ For sustainable growth, emissions must reduce as a country make economic growth.
 [![Visualisation](https://blueandgreentomorrow.com/wp-content/uploads/2018/10/eco-investing.jpg "Visualisation")](https://blueandgreentomorrow.com/wp-content/uploads/2018/10/eco-investing.jpg "Visualisation")
 
 
-### Description of the Datasets
+### Description of the Open Datasets
 
-![image](https://user-images.githubusercontent.com/64317646/133418393-b9365da1-8b7b-48f8-af82-2cd2a94e087b.png)
+#### 1. Australian Energy Update 2020 - Table B 
+- Tabular data (xls file, 225KB): 
+- Australian population, GDP and energy consumption, by state and territory. 
+- It has temporal attributes (both continuous and discrete) with duration ranging from financial year (FY) 1960-61 to FY 2018-19. This table has 9 worksheets with each having ~ 65 rows and 7 columns.	
+Key attributes in the Table B dataset:
+1.	Year
+2.	Each worksheet for different states
+3.	Population (Number)
+4.	GDP / GSP (in $ million)
+5.	Energy Consumption (PJ)
+6.	Per capita Energy consumption (GJ/Person)
+7.	Energy Intensity (GJ/$ million)
+8.	Energy Productivity ($ million / PJ)
+
+Link:https://www.energy.gov.au/publications/australian-energy-update-2020
+
+
+#### 2. Australian Energy Update 2020 - Table F 
+- Tabular data (xls file, 1.2MB):
+- Australian energy consumption, by state and territory, by industry and fuel type, energy units. 
+- It has temporal attributes (both continuous and discrete) with duration ranging from FY 1973-74 to FY 2018-19. This table has 10 worksheets with each having ~ 2,072 rows and 47 columns.
+Key attributes in the Table F dataset:
+1.	Year
+2.	Each worksheet for different states
+3.	Total Energy Consumption (PJ)
+4.	Energy consumption by different industries
+
+Link: https://www.energy.gov.au/publications/australian-energy-update-2020
+
+	
+#### 3. Australian Energy Update 2020 - Table O
+- Tabular data (xls file, 126KB): 
+- Australian electricity generation, by state and territory, by fuel type, physical units.
+- It has temporal attributes (both continuous and discrete) with duration ranging from FY 2008-09 to FY 2018-19. This table has 14 worksheets with each having ~ 47 rows and 12 columns.
+Key attributes in the Table O dataset:
+1.	Year
+2.	Each worksheet for different states
+3.	Energy generation using non-renewable fuels
+4.	Energy generation using renewable resources
+
+Link: https://www.energy.gov.au/publications/australian-energy-update-2020
+
+
+
+
+
+
+
+
+
+
+
