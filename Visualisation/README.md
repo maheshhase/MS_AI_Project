@@ -88,9 +88,21 @@ Link: https://www.energy.gov.au/publications/australian-energy-update-2020
 
 - Energy Productivity = GDP (AUD MN) / Energy Consumption (PJ)
 - Since fossil fuels dominate Australia’s Energy Consumption, less Energy Consumption for the same GDP indicates better preparedness of the state to tackle climate change.
-- Hence, we can inverse proportion between Energy Productivity and Energy Consumption in the 
+- Hence, we can inverse proportion between Energy Productivity and Energy Consumption in the above figure
 
 
+#### 4. Final Dashboard
+
+Final dashboard with all visualisations and key findings.
+
+<img width="1171" alt="4" src="https://user-images.githubusercontent.com/64317646/133425493-f34799db-d88a-42a8-befd-f33106399bfa.png">
+
+
+#### 5. Interactivity
+
+I selected NSW region in one of the maps, automatically values in all visualisations changed to reflect only NSW region
+
+<img width="1171" alt="5" src="https://user-images.githubusercontent.com/64317646/133425664-317abe5b-72c4-45c1-b7f3-cbd4de08b677.png">
 
 
 
